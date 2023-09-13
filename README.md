@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @BDCECharles
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# code
+This is a compilation of R programming codes used on the **Data Professor** YouTube channel tutorial videos.
 
-<!---
-BDCECharles/BDCECharles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Folder | Description
+---|---
+[iris](https://github.com/dataprofessor/code/tree/master/iris) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) and for building *classification models* of the Iris dataset.
+[dhfr](https://github.com/dataprofessor/code/tree/master/dhfr) | Codes for performing *exploratory data analysis* (so as to gain *data understanding*) and for building *classification models* of the Iris dataset.
+[python](https://github.com/dataprofessor/code/tree/master/python) | Codes for various Python data science project tutorials.
+[shiny](https://github.com/dataprofessor/code/tree/master/shiny) | Codes for building *web applications* in R with *shiny* package.
+
+> Note: More to come. Please stay tuned!
